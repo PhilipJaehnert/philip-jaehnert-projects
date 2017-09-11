@@ -1,0 +1,1 @@
+Tippen Sie nun diesen Text ab! Dieses Programm war eines meiner ersten Projekte in CS. Es beinhaltet noch einige Fehler aber funktioniert soweit.
