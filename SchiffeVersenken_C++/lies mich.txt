@@ -1,0 +1,18 @@
+Hallo!
+
+Diese Programm/Spiel entstand im Rahmen einer IT-Projektarbeit meines
+Kumpels für sein Studium - Energie-, Gebäude- und Umwelttechnik an der
+HTWL-Leipzig.
+
+Es stehen zwar zwei andere Namen im Quelltext, jedoch ist das Programm komplett 
+von mir Prozedural/Funktional Programmiert worden, sowie die Bedienungsanleitung, 
+Entwufsbeschreibung und Testprotokoll.
+
+Grund dafür ist das Zeitmanagement der Beiden, da mein Kumpel auch etwas schwierigkeiten
+mit den anderen Stoffen, wie Mathematik, Chemie, usw. hat, daher habe ich in IT ausgeholfen.
+Auch weil er mir schon in einer schwierigen Situation aus der Patsche geholfen hat. 
+Jedoch müssen wir natürlich bis zu deren Verteidigung das Programm durchlernen.
+
+Aufgabenstellung des Programmes ist in dieser Ordnerstruktur zu finden.
+
+Danke!

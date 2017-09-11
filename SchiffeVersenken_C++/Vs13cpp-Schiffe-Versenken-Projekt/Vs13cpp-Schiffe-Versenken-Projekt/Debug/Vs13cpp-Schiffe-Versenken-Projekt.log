@@ -1,0 +1,18 @@
+﻿Der Buildvorgang wurde am 30.07.2017 12:53:06 gestartet.
+     1>Projekt "C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Vs13cpp-Schiffe-Versenken-Projekt\Vs13cpp-Schiffe-Versenken-Projekt\Vs13cpp-Schiffe-Versenken-Projekt.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Vs13cpp-Schiffe-Versenken-Projekt.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Vs13cpp-Schiffe-Versenken-Projekt.cpp"
+         Vs13cpp-Schiffe-Versenken-Projekt.cpp
+     1>c:\users\administrator\documents\visual studio 2013\projects\vs13cpp-schiffe-versenken-projekt\vs13cpp-schiffe-versenken-projekt\vs13cpp-schiffe-versenken-projekt.cpp(32): warning C4305: 'Initialisierung': Verkürzung von 'int' in 'unsigned char'
+     1>c:\users\administrator\documents\visual studio 2013\projects\vs13cpp-schiffe-versenken-projekt\vs13cpp-schiffe-versenken-projekt\vs13cpp-schiffe-versenken-projekt.cpp(32): warning C4309: 'Initialisierung': Verkürzung eines konstanten Wertes
+     1>c:\users\administrator\documents\visual studio 2013\projects\vs13cpp-schiffe-versenken-projekt\vs13cpp-schiffe-versenken-projekt\vs13cpp-schiffe-versenken-projekt.cpp(960): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts wird zurückgegeben
+     1>c:\users\administrator\documents\visual studio 2013\projects\vs13cpp-schiffe-versenken-projekt\vs13cpp-schiffe-versenken-projekt\vs13cpp-schiffe-versenken-projekt.cpp(1066): warning C4244: 'Argument': Konvertierung von 'time_t' in 'unsigned int', möglicher Datenverlust
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Vs13cpp-Schiffe-Versenken-Projekt\Debug\Vs13cpp-Schiffe-Versenken-Projekt.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Vs13cpp-Schiffe-Versenken-Projekt\Debug\Vs13cpp-Schiffe-Versenken-Projekt.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Vs13cpp-Schiffe-Versenken-Projekt\Debug\Vs13cpp-Schiffe-Versenken-Projekt.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\Vs13cpp-Schiffe-Versenken-Projekt.obj"
+         Vs13cpp-Schiffe-Versenken-Projekt.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Vs13cpp-Schiffe-Versenken-Projekt\Debug\Vs13cpp-Schiffe-Versenken-Projekt.exe
+     1>Die Erstellung des Projekts "C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Vs13cpp-Schiffe-Versenken-Projekt\Vs13cpp-Schiffe-Versenken-Projekt\Vs13cpp-Schiffe-Versenken-Projekt.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:03.17
