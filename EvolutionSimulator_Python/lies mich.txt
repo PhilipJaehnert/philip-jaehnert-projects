@@ -1,0 +1,5 @@
+Hallo.
+
+Für dieses Programm wird Blender benötigt.
+
+Danke.
